@@ -1,0 +1,15 @@
+# Databricks metadata
+.databricks/
+
+# Python compiled files (junk)
+__pycache__/
+*.py[cod]
+
+# Data files (NEVER commit these)
+*.csv
+*.parquet
+*.avro
+*.json
+
+# OS junk
+.DS_Store
